@@ -23,4 +23,8 @@ public class Vehicle {
     return mBrand;
   }
 
+  public int getPrice() {
+    return mPrice;
+  }
+
 }
